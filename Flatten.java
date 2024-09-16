@@ -1,4 +1,4 @@
-// Problem 116. Populating Next Right Pointers in Each Node
+// Problem 114. Flatten Binary Tree to Linked List
 // Time Complexity : O(n)
 // Space Complexity : O(h)
 // Did this code successfully run on Leetcode : Yes
@@ -16,7 +16,7 @@
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
  *         this.left = left;
- *         this.right = right;
+ *         this.right = right;ß
  *     }
  * }
  */
